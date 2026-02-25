@@ -1,7 +1,7 @@
 # AWS EC2 Health Check Lab
 
 ## Objective
-Simulate real-world AWS Cloud Support troubleshooting scenarios using EC2.
+Simulate AWS Cloud Support troubleshooting scenarios using EC2.
 
 ## Environment
 - AWS EC2
