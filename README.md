@@ -23,4 +23,4 @@ Simulate AWS Cloud Support troubleshooting scenarios using EC2.
 - Cloud support workflow documentation
 
 ## Version History
-02-24-2026: Initial deployment
+- 2026-02-24: Initial deployment
