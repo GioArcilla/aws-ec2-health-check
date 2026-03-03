@@ -1,4 +1,4 @@
-# Script executes:
+# What this script will execute:
 
 1) Connects to AWS
 2) Retrieves EC2 metadata
