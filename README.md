@@ -1,20 +1,20 @@
 # AWS EC2 Health Check Lab
 
-## Objective
+## Objective:
 Simulate AWS Cloud Support troubleshooting scenarios using EC2.
 
-## Environment
+## Environment:
 - AWS EC2
 - Ubuntu 22.04
 - boto3 (Python)
 - AWS CLI configured profile
 
-## Project Components
+## Project Components:
 - EC2 health validation script
 - SSH troubleshooting simulation
 - Structured incident documentation
 
-## Skills Demonstrated
+## Skills Demonstrated:
 - EC2 state validation
 - Security Group verification
 - IAM identity confirmation
@@ -22,5 +22,5 @@ Simulate AWS Cloud Support troubleshooting scenarios using EC2.
 - Python automation with boto3
 - Cloud support workflow documentation
 
-## Version History
+## Version History:
 - 2026-02-24: Initial deployment
