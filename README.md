@@ -3,7 +3,7 @@
 ## Objective:
 Simulate AWS Cloud Support troubleshooting scenarios using EC2.
 
-## Environment:
+## Packages:
 - AWS EC2
 - Ubuntu 22.04
 - boto3 (Python)
